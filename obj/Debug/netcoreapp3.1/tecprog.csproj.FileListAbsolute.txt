@@ -1,0 +1,11 @@
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.exe
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.deps.json
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.runtimeconfig.json
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.runtimeconfig.dev.json
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.dll
+C:\Учеба\Информатика\Программирование\tecprog\bin\Debug\netcoreapp3.1\tecprog.pdb
+C:\Учеба\Информатика\Программирование\tecprog\obj\Debug\netcoreapp3.1\tecprog.csprojAssemblyReference.cache
+C:\Учеба\Информатика\Программирование\tecprog\obj\Debug\netcoreapp3.1\tecprog.AssemblyInfoInputs.cache
+C:\Учеба\Информатика\Программирование\tecprog\obj\Debug\netcoreapp3.1\tecprog.AssemblyInfo.cs
+C:\Учеба\Информатика\Программирование\tecprog\obj\Debug\netcoreapp3.1\tecprog.dll
+C:\Учеба\Информатика\Программирование\tecprog\obj\Debug\netcoreapp3.1\tecprog.pdb
